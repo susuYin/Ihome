@@ -1,0 +1,19 @@
+INFO_internal.py122 * Restarting with stat
+WARNING_internal.py122 * Debugger is active!
+INFO_internal.py122 * Debugger PIN: 914-416-753
+INFO_internal.py122 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO_internal.py122127.0.0.1 - - [30/May/2019 10:52:31] "GET /api/V1.0/index HTTP/1.1" 200 -
+INFO_internal.py122127.0.0.1 - - [30/May/2019 10:52:35] "GET /api/V1.0/index HTTP/1.1" 200 -
+INFO_internal.py122 * Restarting with stat
+WARNING_internal.py122 * Debugger is active!
+INFO_internal.py122 * Debugger PIN: 914-416-753
+INFO_internal.py122 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUGdemo.py7进入首页了
+ERRORdemo.py8出错了
+INFO_internal.py122127.0.0.1 - - [30/May/2019 11:02:28] "GET /api/V1.0/index HTTP/1.1" 200 -
+DEBUGdemo.py7进入首页了
+ERRORdemo.py8出错了
+INFO_internal.py122127.0.0.1 - - [30/May/2019 11:02:29] "GET /api/V1.0/index HTTP/1.1" 200 -
+DEBUGdemo.py7进入首页了
+ERRORdemo.py8出错了
+INFO_internal.py122127.0.0.1 - - [30/May/2019 11:02:30] "GET /api/V1.0/index HTTP/1.1" 200 -

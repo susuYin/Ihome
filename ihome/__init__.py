@@ -1,13 +1,12 @@
 #coding=utf-8
 from logging.handlers import RotatingFileHandler
-
 import redis
 from flask import Flask
 from flask_session import Session
 from flask_sqlalchemy import SQLAlchemy
+from ihome.utils .commons import ReConverter
 from flask_wtf import CSRFProtect
-from config import config_map, Config
-from ihome import api_1_0
+from config import config_map
 import logging
 
 ##创建db对象，app创建出来之后自动绑定
@@ -44,7 +43,13 @@ def creat_app(config_name):
     Session(app)
     ##添加CSRF防护机制
     CSRFProtect(app)
+    ###为flask添加自定义转换器
+    app.url_map.converters['re']=ReConverter
     ###注册蓝图
+    from ihome import api_1_0
     app.register_blueprint(api_1_0.api,url_prefix="/api/V1.0")
+    ##注册提供静态文件的蓝图
+    from ihome import web_html
+    app.register_blueprint(web_html.html)
 
     return app
