@@ -9,9 +9,10 @@ class Config(object):
     ###redis
     REDIS_HOST="192.168.99.100"
     REDIS_PORT=6379
+    REDIS_PASSWORD="gao123456"
     ####session配置
     SESSION_TYPE="redis"
-    SESSION_REDIS=redis.StrictRedis(host=REDIS_HOST,port=REDIS_PORT)
+    SESSION_REDIS=redis.StrictRedis(host=REDIS_HOST,port=REDIS_PORT,password=REDIS_PASSWORD)
     SESSION_USE_SIGNER=True ###使用混淆，对session_id进行隐藏
     PERMANENT_SESSION_LIFETIME=86400##有效期一天，单位s
 ####开发环境的配置信息

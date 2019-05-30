@@ -4,8 +4,8 @@ from flask import Flask
 from flask_session import Session
 from flask_sqlalchemy import SQLAlchemy
 from flask_wtf import CSRFProtect
-
 from config import config_map, Config
+from ihome import api_1_0
 
 ##创建db对象，app创建出来之后自动绑定
 db=SQLAlchemy()
@@ -29,4 +29,7 @@ def creat_app(config_name):
     Session(app)
     ##添加CSRF防护机制
     CSRFProtect(app)
+    ###注册蓝图
+    app.register_blueprint(api_1_0.api,url_prefix="/api/V1.0")
+
     return app
