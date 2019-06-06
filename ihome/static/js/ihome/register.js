@@ -2,9 +2,9 @@ function getCookie(name) {
     var r = document.cookie.match("\\b" + name + "=([^;]*)\\b");
     return r ? r[1] : undefined;
 }
-
+//全局变量
 var imageCodeId = "";
-
+//生成uuid--全局唯一标识符
 function generateUUID() {
     var d = new Date().getTime();
     if(window.performance && typeof window.performance.now === "function"){
@@ -19,6 +19,11 @@ function generateUUID() {
 }
 
 function generateImageCode() {
+//形成图片验证码的后端地址，设置到页面中
+imageCodeId=generateUUID();
+//设置图片url
+var url="/api/V1.0/images_codes/"+imageCodeId
+$(".image-code img").attr("src",url);
 }
 
 function sendSMSCode() {
