@@ -951,3 +951,267 @@ INFO _internal.py:88 127.0.0.1 - - [06/Jun/2019 14:47:49] "GET /api/V1.0/images_
 INFO _internal.py:88 127.0.0.1 - - [06/Jun/2019 14:47:50] "GET /api/V1.0/images_codes/5181598d-3c38-4558-a090-c29ba1b418d1 HTTP/1.1" 200 -
 INFO _internal.py:88 127.0.0.1 - - [06/Jun/2019 14:47:51] "GET /api/V1.0/images_codes/c60ab9a9-1eae-47c2-b2b4-2259643335dd HTTP/1.1" 200 -
 INFO _internal.py:88 127.0.0.1 - - [06/Jun/2019 14:47:59] "GET /api/V1.0/images_codes/f7db13b7-7735-4868-8e2b-0c3a3915afc8 HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:52:40] "GET /api/V1.0/sms_code/13688815040?image_code&image_code_id HTTP/1.1" 404 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:53:17] "GET /api/V1.0/sms_code/13688815040?image_code&image_code_id HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:53:19] "GET /api/V1.0/sms_code/13688815040?image_code&image_code_id HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:54:38] "GET /api/v1.0/sms_code/13688815040?image_code&image_code_id HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:54:39] "GET /api/v1.0/sms_code/13688815040?image_code&image_code_id HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:54:46] "GET /api/V1.0/sms_code/13688815040?image_code&image_code_id HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:15] "GET /api/V1.0 HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:21] "GET /api/V1.0/index.html HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:21] "GET /api/V1.0/index.html HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /index.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:28] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:32] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:32] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:32] "GET /static/js/ihome/register.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:55:32] "GET /api/V1.0/images_codes/ec7df056-df68-43cb-90d9-75710846e513 HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:57:03] "GET /api/V1.0/sms_code/13688815040?image_code&image_code_id HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:57:11] "POST /api/V1.0/sms_code/13688815040?image_code&image_code_id HTTP/1.1" 405 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:57:33] "GET /api/V1.0/images_codes/123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:58:15] "GET /api/V1.0/sms_code/13688815040?image_code&image_code_id HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:58:32] "GET /api/V1.0/sms_code/13688815040 HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:58:34] "GET /api/V1.0/sms_code/13688815040 HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:58:38] "GET /api/V1.0/sms_code/ HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:59:22] "GET /api/V1.0/sms_codes/ HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 14:59:40] "GET /api/V1.0/sms_codes/145 HTTP/1.1" 404 -
+ERROR app.py:1761 Exception on /api/V1.0/sms_codes/13688815040 [GET]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\verifyCode.py", line 38, in get_sms_code
+    if not all(image_code,image_code_id):
+TypeError: all() takes exactly one argument (2 given)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:00:06] "GET /api/V1.0/sms_codes/13688815040 HTTP/1.1" 500 -
+ERROR app.py:1761 Exception on /api/V1.0/sms_codes/13688815040 [GET]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\verifyCode.py", line 38, in get_sms_code
+    if not all(image_code,image_code_id):
+TypeError: all() takes exactly one argument (2 given)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:00:36] "GET /api/V1.0/sms_codes/13688815040 HTTP/1.1" 500 -
+ERROR app.py:1761 Exception on /api/V1.0/sms_codes/13688815040 [GET]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\verifyCode.py", line 38, in get_sms_code
+    if not all(image_code,image_code_id):
+TypeError: all() takes exactly one argument (2 given)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:01:22] "GET /api/V1.0/sms_codes/13688815040 HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:01:55] "GET /api/V1.0/sms_codes/13688815040 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:03:08] "GET /api/V1.0/sms_codes/13688815040 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:03:08] "GET /api/V1.0/sms_codes/13688815040 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:03:08] "GET /api/V1.0/sms_codes/13688815040 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:05:38] "GET /api/V1.0/images_codes/123456 HTTP/1.1" 200 -
+ERROR verifyCode.py:43 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:07:03] "GET /api/V1.0/sms_codes/13688815040?image_code=1234&image_code_id=img_code_123456 HTTP/1.1" 200 -
+ERROR verifyCode.py:43 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:07:29] "GET /api/V1.0/sms_codes/13688815040?image_code=S6JD&image_code_id=img_code_123456 HTTP/1.1" 200 -
+ERROR verifyCode.py:43 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:07:54] "GET /api/V1.0/sms_codes/13688815040?image_code=S6JD&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:10:24] "GET /api/V1.0/sms_codes/13688815040?image_code=S6JD&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:10:27] "GET /api/V1.0/sms_codes/13688815040?image_code=S6JD&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:10:32] "GET /api/V1.0/images_codes/123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:10:50] "GET /api/V1.0/images_codes/123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:10:53] "GET /api/V1.0/sms_codes/13688815040?image_code=S6JD&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:10:55] "GET /api/V1.0/sms_codes/13688815040?image_code=S6JD&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:10:58] "GET /api/V1.0/sms_codes/13688815040?image_code=FDMC&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:10:59] "GET /api/V1.0/sms_codes/13688815040?image_code=FDMC&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:11:12] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:11:14] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:12:48] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:12:49] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:12:50] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:12:50] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:12:51] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=img_code_123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:13:16] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:13:22] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:14:09] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:14:10] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:14:11] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:16:00] "GET /api/V1.0/images_codes/abc HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:16:08] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=abc HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:17:48] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=%22abc%22 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:17:50] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=%22abc%22 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:17:51] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=%22abc%22 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:17:52] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=%22abc%22 HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:19:50] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=abc HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:20:26] "GET /api/V1.0/images_codes/abc HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:20:35] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=abc HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:21:36] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=abc HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:22:55] "GET /api/V1.0/images_codes/gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:23:14] "GET /api/V1.0/sms_codes/13688815040?image_code=ACWS&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:23:25] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:23:27] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:23:33] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:23:51] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR verifyCode.py:59 (MySQLdb._exceptions.OperationalError) (2002, "Can't connect to MySQL server on '192.168.99.100' (10061)")
+(Background on this error at: http://sqlalche.me/e/e3q8)
+ERROR verifyCode.py:68 %d format: a number is required, not str
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:25:07] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:59 (MySQLdb._exceptions.OperationalError) (2002, "Can't connect to MySQL server on '192.168.99.100' (10061)")
+(Background on this error at: http://sqlalche.me/e/e3q8)
+ERROR verifyCode.py:68 %d format: a number is required, not str
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:25:10] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:48 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:26:04] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:48 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:26:05] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:48 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:26:06] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:48 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:26:07] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:48 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:26:08] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:48 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:26:09] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:27:13] "GET /api/V1.0/images_codes/gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:27:17] "GET /api/V1.0/sms_codes/13688815040?image_code=WUB4&image_code_id=gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:68 %d format: a number is required, not str
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:27:41] "GET /api/V1.0/sms_codes/13688815040?image_code=MUKD&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:29:48] "GET /api/V1.0/images_codes/gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:30:00] "GET /api/V1.0/sms_codes/13688815040?image_code=HBKW&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:43:50] "GET /api/V1.0/images_codes/gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:44:01] "GET /api/V1.0/sms_codes/13688815040?image_code=HBKW&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 15:59:45] "GET /api/V1.0/images_codes/gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:83 setex() takes 4 positional arguments but 5 were given
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:00:08] "GET /api/V1.0/sms_codes/13688815040?image_code=ICME&image_code_id=gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:46 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:00:13] "GET /api/V1.0/sms_codes/13688815040?image_code=ICME&image_code_id=gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:46 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:00:14] "GET /api/V1.0/sms_codes/13688815040?image_code=ICME&image_code_id=gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:46 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:00:15] "GET /api/V1.0/sms_codes/13688815040?image_code=ICME&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:03:42] "GET /api/V1.0/images_codes/gaogao HTTP/1.1" 200 -
+ERROR verifyCode.py:84 setex() takes 4 positional arguments but 5 were given
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:03:56] "GET /api/V1.0/sms_codes/13688815040?image_code=MSGH&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:05:00] "GET /api/V1.0/images_codes/gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:05:17] "GET /api/V1.0/sms_codes/13688815040?image_code=TLQS&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:05:19] "GET /api/V1.0/sms_codes/13688815040?image_code=TLQS&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:05:21] "GET /api/V1.0/sms_codes/13688815040?image_code=TLQS&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:05:22] "GET /api/V1.0/sms_codes/13688815040?image_code=TLQS&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:05:28] "GET /api/V1.0/images_codes/gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:05:47] "GET /api/V1.0/sms_codes/13688815040?image_code=HU57&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:06:59] "GET /api/V1.0/sms_codes/13688815040?image_code=HU57&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:07:00] "GET /api/V1.0/sms_codes/13688815040?image_code=HU57&image_code_id=gaogao HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:08:42] "GET /api/V1.0/images_codes/176e3866-eb6a-4856-b963-dcbc1c87f1f8 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:08:43] "GET /api/V1.0/images_codes/3c713315-0102-473b-a5dc-77cb2330f339 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:08:46] "GET /api/V1.0/images_codes/0c2afa38-b243-4575-baf4-30278628201c HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:08:52] "GET /api/smscode?mobile=13688815040&code=LDKY&codeId=0c2afa38-b243-4575-baf4-30278628201c HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:08:59] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:11:01] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:11:01] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:11:01] "GET /api/V1.0/images_codes/42025740-2b60-4097-b588-b2b50273b9a7 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:11:12] "GET /api/smscode?mobile=13688815040&code=LZHT&codeId=42025740-2b60-4097-b588-b2b50273b9a7 HTTP/1.1" 404 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:16:21] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:16:22] "GET /api/V1.0/images_codes/87feb783-b299-4a4d-8aa8-d208422fdee9 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:17:29] "GET /api/smscode?mobile=13688815040&code=DTVE&codeId=87feb783-b299-4a4d-8aa8-d208422fdee9 HTTP/1.1" 404 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /api/V1.0/images_codes/6ffeb296-b43f-46bc-9c75-da6d5bd88e09 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:18] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:21:35] "GET /api/V1.0/sms_codes?mobile=13688815040&image_code=DJ7I&image_code_id=6ffeb296-b43f-46bc-9c75-da6d5bd88e09 HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:22:06] "GET /api/V1.0/sms_codes?mobile=13688815040&image_code=DJ7I&image_code_id=6ffeb296-b43f-46bc-9c75-da6d5bd88e09 HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:23:54] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:23:54] "GET /api/V1.0/images_codes/b31d61eb-521b-437c-87f9-c9d23fd292b0 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:23:55] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:24:35] "GET /api/V1.0/images_codes/fba8e75a-ba5a-4f3e-99f1-dedd3eeab402 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:24:42] "GET /api/V1.0/sms_codes?mobile=13688815040&image_code=EVX5&image_code_id=fba8e75a-ba5a-4f3e-99f1-dedd3eeab402 HTTP/1.1" 404 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /api/V1.0/images_codes/0b527be1-185f-4d92-a342-1a70044cb3f1 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:35] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:25:48] "GET /api/V1.0/sms_codes/13688815040?image_code=KIMZ&image_code_id=0b527be1-185f-4d92-a342-1a70044cb3f1 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:27:07] "GET /api/V1.0/sms_codes/13688815040?image_code=KIMZ&image_code_id=0b527be1-185f-4d92-a342-1a70044cb3f1 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:27:10] "GET /api/V1.0/images_codes/bf0cf62d-a8cc-4fb7-8e14-7eaa184a40b0 HTTP/1.1" 200 -
+ERROR verifyCode.py:91 local variable 'obj' referenced before assignment
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:27:21] "GET /api/V1.0/sms_codes/13688815040?image_code=XRO8&image_code_id=bf0cf62d-a8cc-4fb7-8e14-7eaa184a40b0 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:27:38] "GET /api/V1.0/sms_codes/13688815040?image_code=XRO8&image_code_id=bf0cf62d-a8cc-4fb7-8e14-7eaa184a40b0 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:28:15] "GET /api/V1.0/sms_codes/13688815040?image_code=XRO8&image_code_id=bf0cf62d-a8cc-4fb7-8e14-7eaa184a40b0 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:28:16] "GET /api/V1.0/sms_codes/13688815040?image_code=XRO8&image_code_id=bf0cf62d-a8cc-4fb7-8e14-7eaa184a40b0 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 17:39:23] "GET /api/V1.0/sms_codes?mobile=13688815040&image_code=DJ7I&image_code_id=6ffeb296-b43f-46bc-9c75-da6d5bd88e09 HTTP/1.1" 404 -
