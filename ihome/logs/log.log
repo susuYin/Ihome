@@ -1215,3 +1215,1071 @@ INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:27:38] "GET /api/V1.0/sms_cod
 INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:28:15] "GET /api/V1.0/sms_codes/13688815040?image_code=XRO8&image_code_id=bf0cf62d-a8cc-4fb7-8e14-7eaa184a40b0 HTTP/1.1" 200 -
 INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 16:28:16] "GET /api/V1.0/sms_codes/13688815040?image_code=XRO8&image_code_id=bf0cf62d-a8cc-4fb7-8e14-7eaa184a40b0 HTTP/1.1" 200 -
 INFO _internal.py:88 127.0.0.1 - - [11/Jun/2019 17:39:23] "GET /api/V1.0/sms_codes?mobile=13688815040&image_code=DJ7I&image_code_id=6ffeb296-b43f-46bc-9c75-da6d5bd88e09 HTTP/1.1" 404 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:39] "GET /%20( HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:43] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:44] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:44] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:44] "GET /static/js/ihome/register.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:20:45] "GET /api/V1.0/images_codes/9a5a789a-7442-430a-a70e-66f264b0d441 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:22:21] "GET /api/V1.0/sms_codes/13688815040?image_code=YECQ&image_code_id=9a5a789a-7442-430a-a70e-66f264b0d441 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:24:06] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 304 -
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:25:51] "POST /api/V1.0/users HTTP/1.1" 400 -
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:26:01] "POST /api/V1.0/users HTTP/1.1" 400 -
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:26:58] "POST /api/V1.0/users HTTP/1.1" 400 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR app.py:1761 Exception on /api/V1.0/users [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 13, in register
+    mobile=req_dict["mobile"]
+TypeError: 'method' object is not subscriptable
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:30:02] "POST /api/V1.0/users HTTP/1.1" 500 -
+ERROR app.py:1761 Exception on /api/V1.0/users [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 13, in register
+    mobile=req_dict["mobile"]
+TypeError: 'method' object is not subscriptable
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:30:11] "POST /api/V1.0/users HTTP/1.1" 500 -
+ERROR app.py:1761 Exception on /api/V1.0/users [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 13, in register
+    mobile=req_dict["mobile"]
+TypeError: 'method' object is not subscriptable
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:30:12] "POST /api/V1.0/users HTTP/1.1" 500 -
+ERROR app.py:1761 Exception on /api/V1.0/users [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 13, in register
+    mobile=req_dict["mobile"]
+TypeError: 'method' object is not subscriptable
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:30:13] "POST /api/V1.0/users HTTP/1.1" 500 -
+ERROR app.py:1761 Exception on /api/V1.0/users [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 13, in register
+    mobile=req_dict("mobile")
+TypeError: 'method' object is not subscriptable
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:31:40] "POST /api/V1.0/users HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR app.py:1761 Exception on /api/V1.0/users [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 20, in register
+    if not re.match(r"1[34578]\d{9}",mobile):
+  File "D:\Program\Python37\lib\re.py", line 173, in match
+    return _compile(pattern, flags).match(string)
+TypeError: expected string or bytes-like object
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:32:40] "POST /api/V1.0/users HTTP/1.1" 500 -
+ERROR app.py:1761 Exception on /api/V1.0/users [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 20, in register
+    if not re.match(r"1[34578]\d{9}",mobile):
+  File "D:\Program\Python37\lib\re.py", line 173, in match
+    return _compile(pattern, flags).match(string)
+TypeError: expected string or bytes-like object
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:34:16] "POST /api/V1.0/users HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR app.py:1761 Exception on /api/V1.0/users [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 20, in register
+    if  re.match(r"1[34578]\d{9}",mobile) is None:
+  File "D:\Program\Python37\lib\re.py", line 173, in match
+    return _compile(pattern, flags).match(string)
+TypeError: expected string or bytes-like object
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:39:49] "POST /api/V1.0/users HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:42:36] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:43:38] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:44:29] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR app.py:1761 Exception on /api/V1.0/users [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 14, in register
+    mobile=req_dict["mobile"]
+TypeError: 'NoneType' object is not subscriptable
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:47:44] "POST /api/V1.0/users HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR app.py:1761 Exception on /api/V1.0/users [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 14, in register
+    mobile=req_dict['mobile']
+TypeError: 'method' object is not subscriptable
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:50:48] "POST /api/V1.0/users HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:53:39] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR app.py:1761 Exception on /api/V1.0/users [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 14, in register
+    req_dict= json.loads(req_dict)
+  File "D:\Program\Python37\lib\json\__init__.py", line 341, in loads
+    raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+TypeError: the JSON object must be str, bytes or bytearray, not method
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:55:13] "POST /api/V1.0/users HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:56:18] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:56:47] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:56:48] "GET /api/V1.0/images_codes/1b4f123e-d59e-46c3-9a17-3e75bd61b1e9 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:57:04] "GET /api/V1.0/sms_codes/13688815040?image_code=YUQE&image_code_id=1b4f123e-d59e-46c3-9a17-3e75bd61b1e9 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:57:20] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:59:03] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:59:05] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:59:06] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:59:07] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:59:08] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 14:59:09] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:00:45] "GET /api/V1.0/sms_codes/13688815040?image_code=YUQE&image_code_id=1b4f123e-d59e-46c3-9a17-3e75bd61b1e9 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:00:46] "GET /api/V1.0/images_codes/a1d535c5-15f9-445f-b5f5-9d6275a4ba4f HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:00:48] "GET /api/V1.0/images_codes/57a8fe39-4290-4930-87ed-500f813a4a34 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:00:56] "GET /api/V1.0/sms_codes/13688815040?image_code=WK9W&image_code_id=57a8fe39-4290-4930-87ed-500f813a4a34 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:01:28] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:02:51] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:02:51] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:02:51] "GET /api/V1.0/images_codes/649d45e4-5a27-4e4d-ba29-d90df2ae44df HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:03:00] "GET /api/V1.0/sms_codes/13688815040?image_code=MYAQ&image_code_id=649d45e4-5a27-4e4d-ba29-d90df2ae44df HTTP/1.1" 200 -
+ERROR passport.py:67 (MySQLdb._exceptions.OperationalError) (1048, "Column 'password_hash' cannot be null")
+[SQL: INSERT INTO ih_user_profile (create_time, update_time, name, password_hash, mobile, real_name, id_card, avatar_url) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)]
+[parameters: (datetime.datetime(2019, 6, 12, 15, 3, 15, 403713), datetime.datetime(2019, 6, 12, 15, 3, 15, 403713), '13688815040', None, '13688815040', None, None, None)]
+(Background on this error at: http://sqlalche.me/e/e3q8)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:03:15] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:07:50] "GET /api/V1.0/sms_codes/13688815040?image_code=MYAQ&image_code_id=649d45e4-5a27-4e4d-ba29-d90df2ae44df HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:07:52] "GET /api/V1.0/images_codes/f7ceaf91-2063-42f0-a69b-bc22ca1cdbfb HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:08:01] "GET /api/V1.0/sms_codes/13688815040?image_code=ojis&image_code_id=f7ceaf91-2063-42f0-a69b-bc22ca1cdbfb HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:08:14] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:36:19] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:36:19] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:36:19] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:36:19] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:36:19] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:36:19] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:36:19] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:36:19] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:36:19] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:36:19] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:36:19] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:36:19] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:03] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:03] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:03] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:03] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:03] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:03] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:03] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:03] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:03] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:03] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:03] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:03] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:38:46] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:47:43] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:48:39] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:48:39] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:48:39] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:48:39] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:48:39] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:48:39] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:48:39] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:48:39] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:48:39] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:48:39] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:48:39] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:48:40] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /api/V1.0/images_codes/12754237-a455-4785-8bf5-969cc7d0c613 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:23] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:47] "GET /api/V1.0/sms_codes/13688815041?image_code=BGCH&image_code_id=12754237-a455-4785-8bf5-969cc7d0c613 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:50] "GET /api/V1.0/sms_codes/13688815041?image_code=BGCH&image_code_id=12754237-a455-4785-8bf5-969cc7d0c613 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:54] "GET /api/V1.0/images_codes/96fb85c9-f2f5-40b1-8788-1620eb404976 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:51:58] "GET /api/V1.0/images_codes/2c3ca4a3-31c1-4027-9a1a-dfcad6744b9d HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:52:09] "GET /api/V1.0/sms_codes/13688815041?image_code=6HXM&image_code_id=2c3ca4a3-31c1-4027-9a1a-dfcad6744b9d HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:52:34] "GET /api/V1.0/images_codes/8938f099-7494-433f-8c62-2c872520c8f3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:52:35] "GET /api/V1.0/images_codes/d2886ece-d492-4862-a2f7-3b288b47c700 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:52:37] "GET /api/V1.0/images_codes/c7ba3132-6546-46c9-ab20-11f67a9a78a9 HTTP/1.1" 200 -
+ERROR verifyCode.py:91 local variable 'obj' referenced before assignment
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:52:49] "GET /api/V1.0/sms_codes/13688815040?image_code=IRBU&image_code_id=c7ba3132-6546-46c9-ab20-11f67a9a78a9 HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:56:08] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:56:08] "GET /api/V1.0/images_codes/19fbfc32-4fb3-4213-8a5d-dc71c9511a47 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:56:19] "GET /api/V1.0/images_codes/d980547f-d5d8-4e1f-b454-77a1e803e86a HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:56:21] "GET /api/V1.0/images_codes/866b20de-f6fb-446d-8369-cb62647c4603 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:56:25] "GET /api/V1.0/images_codes/af5a6eac-ae35-4c03-879a-b9ecc484f68e HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 15:56:35] "GET /api/V1.0/sms_codes/13551342999?image_code=UWC4&image_code_id=af5a6eac-ae35-4c03-879a-b9ecc484f68e HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:00:08] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:00:09] "GET /api/V1.0/images_codes/17d58f21-553e-4768-aa68-50e6ca32a2c4 HTTP/1.1" 200 -
+ERROR app.py:1761 Exception on /api/V1.0/sms_codes/13688815040 [GET]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:00:19] "GET /api/V1.0/sms_codes/13688815040?image_code=FWGQ&image_code_id=17d58f21-553e-4768-aa68-50e6ca32a2c4 HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:07:11] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:07:11] "GET /api/V1.0/images_codes/1c698a2c-137b-405c-a795-cdb56af4a329 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:07:16] "GET /api/V1.0/images_codes/1a0e85cd-d41e-40e3-97d3-d50e0d95e896 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:07:17] "GET /api/V1.0/images_codes/8b656c28-f669-43f5-aee2-7e0d4eb7de5d HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:07:24] "GET /api/V1.0/sms_codes/13688815040?image_code=gaaj&image_code_id=8b656c28-f669-43f5-aee2-7e0d4eb7de5d HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:07:43] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:08:15] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:09:03] "POST /api/V1.0/users HTTP/1.1" 400 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:10:11] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:10:11] "GET /api/V1.0/images_codes/0fd2c267-13ba-44c8-b1a7-732e9123ab88 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:10:16] "POST /api/V1.0/users HTTP/1.1" 400 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:10:18] "POST /api/V1.0/users HTTP/1.1" 400 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:10:19] "POST /api/V1.0/users HTTP/1.1" 400 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:10:27] "POST /api/V1.0/users HTTP/1.1" 400 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:10:49] "POST /api/V1.0/users HTTP/1.1" 400 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:10:50] "POST /api/V1.0/users HTTP/1.1" 400 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:10:52] "POST /api/V1.0/users HTTP/1.1" 400 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:10:53] "POST /api/V1.0/users HTTP/1.1" 400 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:11:29] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:11:48] "GET /api/V1.0/images_codes/eecf34d0-ef1c-4466-b87d-74cc2295396d HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:11:49] "GET /api/V1.0/images_codes/5c99c350-9e38-48a0-bbcb-3515a77152e9 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:11:56] "GET /api/V1.0/sms_codes/13688815040?image_code=HVSW&image_code_id=5c99c350-9e38-48a0-bbcb-3515a77152e9 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:12:10] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:36] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:37] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:37] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /api/V1.0/images_codes/c1baee58-29a4-4072-8892-7fba43e7cf26 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:13:53] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+ERROR verifyCode.py:91 local variable 'obj' referenced before assignment
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:14:04] "GET /api/V1.0/sms_codes/13688815040?image_code=BORD&image_code_id=c1baee58-29a4-4072-8892-7fba43e7cf26 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:14:20] "GET /api/V1.0/images_codes/7dcc83af-9c3f-4602-8133-a03ed817f80b HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:14:21] "GET /api/V1.0/sms_codes/13688815040?image_code=BORD&image_code_id=7dcc83af-9c3f-4602-8133-a03ed817f80b HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:14:27] "GET /api/V1.0/sms_codes/13688815040?image_code=UXYQ&image_code_id=7dcc83af-9c3f-4602-8133-a03ed817f80b HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:14:30] "GET /api/V1.0/images_codes/4f8ec641-3190-42a1-847a-1364d01b69f4 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:14:33] "GET /api/V1.0/images_codes/4d79286e-638f-47b5-b8b9-614a9fb2b07f HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:14:39] "GET /api/V1.0/sms_codes/13688815040?image_code=TYWJ&image_code_id=4d79286e-638f-47b5-b8b9-614a9fb2b07f HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:14:42] "GET /api/V1.0/sms_codes/13688815040?image_code=TYWJ&image_code_id=4d79286e-638f-47b5-b8b9-614a9fb2b07f HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:14:43] "GET /api/V1.0/sms_codes/13688815040?image_code=TYWJ&image_code_id=4d79286e-638f-47b5-b8b9-614a9fb2b07f HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:14:44] "GET /api/V1.0/sms_codes/13688815040?image_code=TYWJ&image_code_id=4d79286e-638f-47b5-b8b9-614a9fb2b07f HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:14:45] "GET /api/V1.0/sms_codes/13688815040?image_code=TYWJ&image_code_id=4d79286e-638f-47b5-b8b9-614a9fb2b07f HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:14:45] "GET /api/V1.0/sms_codes/13688815040?image_code=TYWJ&image_code_id=4d79286e-638f-47b5-b8b9-614a9fb2b07f HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:15:00] "GET /api/V1.0/images_codes/59431d70-b025-404e-bd25-2b26944c35c6 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:15:05] "GET /api/V1.0/images_codes/b098bc92-788d-436b-ae4a-3c8baac55805 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:15:06] "GET /api/V1.0/images_codes/1d39c0dd-4af4-43c4-aa6a-d26e11521dc3 HTTP/1.1" 200 -
+ERROR verifyCode.py:91 local variable 'obj' referenced before assignment
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:15:14] "GET /api/V1.0/sms_codes/13688815040?image_code=JUW9&image_code_id=1d39c0dd-4af4-43c4-aa6a-d26e11521dc3 HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:16:31] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:16:31] "GET /api/V1.0/images_codes/bd8f39f9-e9c3-4ba7-943e-673e35460e66 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:17:14] "GET /api/V1.0/sms_codes/13688815045?image_code=POVF&image_code_id=bd8f39f9-e9c3-4ba7-943e-673e35460e66 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:17:31] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:17:35] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:17:36] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:17:37] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:18:52] "POST /api/V1.0/users HTTP/1.1" 200 -
+ERROR passport.py:32 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:18:54] "POST /api/V1.0/users HTTP/1.1" 200 -
+ERROR passport.py:32 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:18:55] "POST /api/V1.0/users HTTP/1.1" 200 -
+ERROR passport.py:32 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:18:56] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:04] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:04] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:04] "GET /api/V1.0/images_codes/28805c9d-1a76-442a-99b5-030ed0046186 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /api/V1.0/images_codes/45e1a557-e9db-438e-95b2-f9753ac2d7c3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:42] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:20:56] "GET /api/V1.0/sms_codes/13688815045?image_code=LX04&image_code_id=45e1a557-e9db-438e-95b2-f9753ac2d7c3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:02] "GET /api/V1.0/sms_codes/13688815045?image_code=LXO4&image_code_id=45e1a557-e9db-438e-95b2-f9753ac2d7c3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:03] "GET /api/V1.0/images_codes/415df75c-2704-44f7-aa17-90276a1fbcc9 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:05] "GET /api/V1.0/images_codes/e852bfa6-a0b9-405c-9122-659063d1437a HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:12] "GET /api/V1.0/sms_codes/13688815045?image_code=5VFL&image_code_id=e852bfa6-a0b9-405c-9122-659063d1437a HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:26] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /index.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:21:27] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:23:21] "GET /index.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:23:21] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:23:25] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:23:27] "GET /api/V1.0/images_codes/abfa8952-a68f-4a72-8f20-1034627ab52e HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:23:27] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:23:36] "GET /api/V1.0/images_codes/94d490e8-c33e-49e2-9d27-e7ba1628457d HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:23:42] "GET /api/V1.0/sms_codes/13688815046?image_code=TXPU&image_code_id=94d490e8-c33e-49e2-9d27-e7ba1628457d HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:24:13] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [12/Jun/2019 16:24:23] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 11:52:25] "POST /api/V1.0/sessions HTTP/1.1" 400 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR passport.py:95 get() takes 2 positional arguments but 3 were given
+ERROR app.py:1761 Exception on /api/V1.0/sessions [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 105, in login
+    if user is not None or not user.check_password(password):
+AttributeError: 'NoneType' object has no attribute 'check_password'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:15:10] "POST /api/V1.0/sessions HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+ERROR app.py:1761 Exception on /api/V1.0/sessions [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 108, in login
+    if user is not None or not user.user.check_password(password):
+AttributeError: 'NoneType' object has no attribute 'user'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:18:14] "POST /api/V1.0/sessions HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR app.py:1761 Exception on /api/V1.0/sessions [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 80, in login
+    req_dict = req_dict('mobile')
+TypeError: 'dict' object is not callable
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:19:20] "POST /api/V1.0/sessions HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+ERROR app.py:1761 Exception on /api/V1.0/sessions [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 108, in login
+    if user is not None or not user.user.check_password(password):
+AttributeError: 'NoneType' object has no attribute 'user'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:20:23] "POST /api/V1.0/sessions HTTP/1.1" 500 -
+ERROR passport.py:32 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:25:41] "POST /api/V1.0/users HTTP/1.1" 200 -
+ERROR passport.py:32 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:25:46] "POST /api/V1.0/users HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+ERROR app.py:1761 Exception on /api/V1.0/sessions [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 108, in login
+    if user is not None or not user.check_password(password):
+AttributeError: 'NoneType' object has no attribute 'check_password'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:27:10] "POST /api/V1.0/sessions HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+ERROR app.py:1761 Exception on /api/V1.0/sessions [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 108, in login
+    if user is not None or not user.check_password(password):
+AttributeError: 'NoneType' object has no attribute 'check_password'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:30:44] "POST /api/V1.0/sessions HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+ERROR app.py:1761 Exception on /api/V1.0/sessions [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 109, in login
+    if user is not None or not user.check_password(password):
+AttributeError: 'NoneType' object has no attribute 'check_password'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:43:11] "POST /api/V1.0/sessions HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR passport.py:32 'NoneType' object has no attribute 'decode'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:48:46] "POST /api/V1.0/users HTTP/1.1" 200 -
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+ERROR app.py:1761 Exception on /api/V1.0/sessions [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 108, in login
+    if user is not None or not user.check_password(password):
+AttributeError: 'NoneType' object has no attribute 'check_password'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:49:03] "POST /api/V1.0/sessions HTTP/1.1" 500 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:49:25] "GET /api/V1.0/sms_codes/13688815040?image_code=HU57&image_code_id=gaogao HTTP/1.1" 200 -
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:50:14] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+ERROR app.py:1761 Exception on /api/V1.0/sessions [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 120, in login
+    session["user_id"] = user.user_id
+AttributeError: 'User' object has no attribute 'user_id'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:51:38] "POST /api/V1.0/sessions HTTP/1.1" 500 -
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+ERROR app.py:1761 Exception on /api/V1.0/sessions [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 120, in login
+    session["user_id"] = user.user_id
+AttributeError: 'User' object has no attribute 'user_id'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:51:41] "POST /api/V1.0/sessions HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:52:59] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:53:04] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:53:11] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:53:13] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:53:14] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:53:15] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:53:16] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+ERROR passport.py:97 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:53:17] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR passport.py:98 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 14:56:36] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+ERROR passport.py:98 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:03:04] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+ERROR passport.py:98 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:03:08] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+ERROR passport.py:98 get() takes 2 positional arguments but 3 were given
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:03:10] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:06:45] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:06:47] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+ERROR app.py:1761 Exception on /api/V1.0/sessions [POST]
+Traceback (most recent call last):
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program\Python37\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\top\PycharmProjects\Ihome\ihome\api_1_0\passport.py", line 100, in login
+    print("int(access_num)",int(access_num))
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:07:13] "POST /api/V1.0/sessions HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:08:15] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:08:16] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:08:17] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:08:18] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:12:40] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:12:41] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:12:50] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET / HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/images/home01.jpg HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/js/template.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/images/home02.jpg HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/images/home03.jpg HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:44] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:46] "GET /login.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:46] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:46] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:53] "GET /login.html?mobile=13688815040&password=222222222 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:22:59] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 304 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:31:27] "GET /login.html?mobile=13688815040&password=222222222 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:31:27] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:31:27] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:31:27] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:31:27] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:31:27] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:31:27] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:31:27] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:31:27] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:31:27] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:31:27] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:31:27] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:32:36] "GET /login.html?mobile=13688815040&password=123456 HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:20] "GET /login.html?mobile=13688815040&password=123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:20] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:20] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:20] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:20] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:20] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:20] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:20] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:20] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:20] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:20] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:20] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:33:43] "GET /login.html?mobile=13688815040&password=123456 HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:34:33] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:54] "GET /login.html?mobile=13688815040&password=123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:54] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:54] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:54] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:54] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:54] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:54] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:54] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:54] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:54] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:54] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:54] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:35:59] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:36:04] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:36:06] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:36:28] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:36:30] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:36:30] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:36:31] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:49] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:50] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:52] "GET /login.html?mobile=13688815040&password=123456 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:52] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:52] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:52] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:52] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:52] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:52] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:52] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:52] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:53] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:53] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:37:53] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:01] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:09] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:10] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:11] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:29] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:38:30] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:39:46] "GET /login.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:40:22] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:40:26] "GET /search.html?aid=&aname=&sd=&ed= HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:40:26] "GET /static/css/ihome/search.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:40:26] "GET /static/js/ihome/search.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:40:26] "GET /static/images/landlord01.jgp HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:40:35] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:41:02] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:41:02] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:41:02] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:41:02] "GET /api/V1.0/images_codes/c713934a-0588-4d93-aae4-9ac82d6fb6ec HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:41:17] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:41:18] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:46:43] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:46:44] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:48:46] "GET /my.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:48:46] "GET /static/css/ihome/my.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:48:46] "GET /static/js/ihome/my.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:56:22] "GET /index.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 15:56:23] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:03:48] "GET /api/V1.0/session HTTP/1.1" 404 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /index.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:04:59] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:05:00] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:05:00] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:05:00] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:05:00] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:05:00] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:05:00] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:05:00] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:05:00] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:51] "GET /index.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:51] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:51] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:51] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:51] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:51] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:51] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:51] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:51] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:06:52] "GET /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:07:17] "GET /login.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:07:17] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:07:17] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:07:26] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:07:26] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:07:27] "GET /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:07:27] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:07:29] "GET /my.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:07:29] "GET /static/css/ihome/my.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:07:29] "GET /static/js/ihome/my.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:07:39] "GET /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /my.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/css/ihome/my.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/js/ihome/my.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:12:55] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:00] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:00] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:00] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:00] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:00] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:00] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:00] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:00] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:00] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:00] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:01] "GET /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:01] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:02] "GET /login.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:02] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:02] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:11] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:11] "GET /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:13:11] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:28] "GET /my.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /my.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /static/css/ihome/my.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /static/js/ihome/my.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:34] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:37] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:42] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:42] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:42] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:42] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:42] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:42] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:42] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:42] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:42] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:42] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:43] "GET /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:43] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:44] "GET /login.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:44] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:44] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:50] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:51] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:14:51] "GET /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:15:25] "DELETE /api/v1.0/session HTTP/1.1" 405 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:15:52] "DELETE /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /my.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/css/ihome/my.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/js/ihome/my.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:16] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:19] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:19] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:19] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:19] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:19] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:19] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:19] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:19] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:19] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:19] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:20] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:20] "GET /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:21] "GET /login.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:21] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:21] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:28] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:28] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:28] "GET /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:32] "DELETE /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:32] "GET /index.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:32] "GET /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:32] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:17:41] "DELETE /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:35:35] "POST /api/V1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:35:35] "GET /api/V1.0/session HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:35:35] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:35:43] "GET /auth.html HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:35:43] "GET /static/css/ihome/profile.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:35:43] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:35:43] "GET /static/js/ihome/auth.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:35:55] "GET /orders.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:35:55] "GET /static/css/ihome/orders.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:35:55] "GET /static/js/ihome/orders.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:36:59] "GET /profile.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:37:00] "GET /static/js/ihome/profile.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [13/Jun/2019 16:37:15] "POST /api/profile/avatar HTTP/1.1" 405 -

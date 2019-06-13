@@ -8,7 +8,7 @@ from ihome import Const
 from flask import current_app, jsonify, make_response,request
 from ihome.utils.response_code import RET
 from ihome.libs.yuntongxun.SendTemplateSMS import CCP
-
+#注册蓝图路由
 @api.route("/images_codes/<image_code_id>")
 def get_image_code(image_code_id):
     ##获取图片验证码 返回值：验证码图片
@@ -68,6 +68,7 @@ def get_sms_code(mobile):
     ##判断手机号是否存在
     try:
         user=User.query.filter_by(mobile=mobile).first()
+        print(type(user))
     except Exception as e:
         current_app.logger.error(e)
     else:

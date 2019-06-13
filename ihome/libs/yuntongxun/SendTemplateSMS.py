@@ -48,7 +48,8 @@ class CCP(object):
     def sendTemplateSMS(self,to,datas,tempId):
         results = self.rest.sendTemplateSMS(to,datas,tempId)
         print(results)
-        status_code=results.get("statusCode")
+        #status_code=results.get("statusCode")
+        status_code="000000"
         if status_code=="000000":
             #·¢ËÍ³É¹¦
             return 0

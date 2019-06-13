@@ -42,10 +42,10 @@ def creat_app(config_name):
     ##将session数据保存到redis
     Session(app)
     ##添加CSRF防护机制
-    CSRFProtect(app)
+    #CSRFProtect(app)
     ###为flask添加自定义转换器
     app.url_map.converters['re']=ReConverter
-    ###注册蓝图
+    ###在程序实例中注册该蓝图
     from ihome import api_1_0
     app.register_blueprint(api_1_0.api,url_prefix="/api/V1.0")
     ##注册提供静态文件的蓝图
