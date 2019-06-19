@@ -25,7 +25,7 @@ def login_required(view_func):
         #如果未登录，返回未登录信息
         else:
             return jsonify(errno=RET.SESSIONERR, errmsg="用户未登录")
-        return wrapper
+    return wrapper
 
 
 
